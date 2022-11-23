@@ -5,7 +5,7 @@
 
 CLIENT = calculatrice_client
 SERVER = calculatrice_server
-
+    
 SOURCES_CLNT.c = 
 SOURCES_CLNT.h = 
 SOURCES_SVC.c = 
